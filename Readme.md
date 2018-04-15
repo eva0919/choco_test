@@ -14,3 +14,5 @@ npm build
 ```
 npm start
 ```
+
+打開Browser，輸入網址localhost:3000
